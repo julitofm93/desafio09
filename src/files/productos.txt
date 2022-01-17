@@ -1,0 +1,31 @@
+[
+  {
+    "id": 1,
+    "title": "Libro",
+    "price": "1231321",
+    "stock": "2",
+    "thumbnail": "http://localhost:8080/images/1639098650711image.jpg",
+    "timestamp": "9/12/2021 22:10:50"
+  },
+  {
+    "id": 2,
+    "title": "Escuadra",
+    "price": "1231321",
+    "thumbnail": "http://localhost:8080/images/1639098690868image.jpg",
+    "timestamp": "9/12/2021 22:11:30"
+  },
+  {
+    "id": 3,
+    "title": "Cuaderno",
+    "price": "1231321",
+    "thumbnail": "http://localhost:8080/images/1641500213994image.jpg",
+    "timestamp": "6/1/2022 17:16:54"
+  },
+  {
+    "id": 7,
+    "title": "Bokita",
+    "price": "1231321",
+    "thumbnail": "http://localhost:8080/images/1642257707061image.png",
+    "timestamp": "15/1/2022 11:41:47"
+  }
+]
